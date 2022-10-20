@@ -282,8 +282,8 @@ body {
 
 .attribution {
   text-align: center;
+  margin-top: 1rem;
   color: var(--white);
-  margin-bottom: 1rem;
 }
 
 /* Classes for light mode */
